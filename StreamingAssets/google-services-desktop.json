@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186886839786",
+    "firebase_url": "https://world-of-mushrooms-b59ad-default-rtdb.firebaseio.com",
+    "project_id": "world-of-mushrooms-b59ad",
+    "storage_bucket": "world-of-mushrooms-b59ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186886839786:android:09d5f7e37217d9cf3c6693",
+        "android_client_info": {
+          "package_name": "com.madsnail.wom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186886839786-vnk62anlt2eau8v7195m4mlifil5aqip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madsnail.wom",
+            "certificate_hash": "62d5cc9d55ee936a5f3e6f2dd1c2e4133190ee6a"
+          }
+        },
+        {
+          "client_id": "186886839786-s7ae7ajehsvcsvq07kk72q63oa0ln15c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0sQxi7W6NzoFDbGvVzAHF6Ez-ZXWsqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186886839786-s7ae7ajehsvcsvq07kk72q63oa0ln15c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
